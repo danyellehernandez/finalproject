@@ -1,0 +1,119 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: DarkGrey;
+}
+
+header {
+        background-image: url("dinosaur.jpg");
+        height: 400px;
+        background-position: center center;
+        border-radius: 5px;
+}
+
+h1 {
+  color: SeaShell;
+  font-family: Helvetica;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+h2 {
+  color: #214E34;
+  font-family: Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 50%;
+}
+
+li {
+  border-bottom: 3px dotted white;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+  text-align: justify;
+}
+
+p {
+  color: white;
+  line-height: 32px;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  text-align: justify;
+}
+
+a {
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: 900;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+footer {
+        background-color: #214E34;
+        font-family: Helvetica;
+        font-size: 16px;
+        margin: 10px;
+        height: 60px;
+        clear: both;
+        border-radius: 5px;
+        color: white;
+        text-align: center;
+}
+        
+        
+aside {
+      margin-left: 10px;
+      margin-right: 0px;
+      margin-top: 15px;
+      margin-bottom: 10px;
+      border-radius: 10px;
+      padding: 20px;
+      float: right;
+      width: 250px;
+      font-size: 105%;
+      clear: right;
+}
+
+
+.imgsidebar {
+             width: 250px;
+             float: right;
+             border-radius: 5px;
+             margin-left: 10px;
+             margin-right: 10px;
+             margin-top: 0px;
+             margin-bottom: 10px;
+             clear: right;
+}
+
+nav {
+     background-color: #214E34;
+     margin: 10px;
+     height: 35px;
+     border-radius: 5px;
+     clear: both;
+     text-align: center;
+}
+
+
+
+
+
+
+
+
